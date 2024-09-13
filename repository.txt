@@ -1,0 +1,13 @@
+type of project: discord bot (roblox event for friends)
+librarys:
+pip install pipenv
+pipenv install discord.py
+pipenv install keras
+pipenv install requests                              
+pipenv install numpy
+pipenv install tensorflow                              
+pipenv install Pillow
+
+theres no references when i did project
+
+theres no good info for me while i did project                              
